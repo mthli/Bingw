@@ -1,0 +1,9 @@
+Gnome文件夹：
+    Gnome桌面环境下使用Bing壁纸的程序源代码，命令行操作。
+
+Windows文件夹：
+    1. Windows桌面环境下使用Bing壁纸的程序源代码，GUI。
+    2. setup_bingw.exe为安装包，其余为原始文件。
+       注意需要安装gtk2-runtime包才可正常运行。
+    3. 由于调用的Windows API的原因，替换的壁纸将在重启之后变为未设置前的样子，
+       这个问题将在后续版本中解决。
